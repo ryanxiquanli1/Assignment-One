@@ -1,0 +1,66 @@
+[
+  {
+    "CAUSE_NAME":"Unintentional Injuries",
+    "DEATHS":11538
+  },
+  {
+    "CAUSE_NAME":"Alzheimer's disease",
+    "DEATHS":11891
+  },
+  {
+    "CAUSE_NAME":"Homicide",
+    "DEATHS":1890
+  },
+  {
+    "CAUSE_NAME":"Stroke",
+    "DEATHS":13698
+  },
+  {
+    "CAUSE_NAME":"Chronic liver disease and cirrhosis",
+    "DEATHS":4824
+  },
+  {
+    "CAUSE_NAME":"CLRD",
+    "DEATHS":13598
+  },
+  {
+    "CAUSE_NAME":"Diabetes",
+    "DEATHS":8057
+  },
+  {
+    "CAUSE_NAME":"Diseases of Heart",
+    "DEATHS":60299
+  },
+  {
+    "CAUSE_NAME":"Essential hypertension and hypertensive renal disease",
+    "DEATHS":4720
+  },
+  {
+    "CAUSE_NAME":"Influenza and pneumonia",
+    "DEATHS":6551
+  },
+  {
+    "CAUSE_NAME":"Suicide",
+    "DEATHS":4025
+  },
+  {
+    "CAUSE_NAME":"Cancer",
+    "DEATHS":57714
+  },
+  {
+    "CAUSE_NAME":"Kidney Disease",
+    "DEATHS":2840
+  },
+  {
+    "CAUSE_NAME":"Parkinson's disease",
+    "DEATHS":2543
+  },
+  {
+    "CAUSE_NAME":"Pneumonitis due to solids and liquids",
+    "DEATHS":1498
+  },
+  {
+    "CAUSE_NAME":"Septicemia",
+    "DEATHS":1310
+  }
+]
